@@ -1,2 +1,2 @@
 # html-starter-practice
-Test Project
+Test Project used to practice Github.
